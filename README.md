@@ -1,5 +1,7 @@
 # Onur Sahin
 
+<a rel="me" href="https://mastodon.social/@aiono">Mastodon</a>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=onsah&show_icons=true&theme=material-palenight"> </img> </p
 
 * Computer scientist.
